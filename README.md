@@ -1,6 +1,6 @@
 # Personal Starter Project
 
-This is a personal starter project for quickly developing web applications built with Next.js, Supabase, Tailwind CSS. It was inspired by the [Next.js + Supabase Template](https://vercel.com/templates/next.js/supabase)
+This is a starter project for quickly developing web applications built with Next.js, Supabase, Tailwind CSS, and Daisy UI. It was inspired by the [Next.js + Supabase Template](https://vercel.com/templates/next.js/supabase).
 
 ## Getting Started
 
