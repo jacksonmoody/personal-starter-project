@@ -10,7 +10,7 @@ export default async function Index() {
   }
   return (
     <main className="animate-in">
-      <h1 className="text-5xl font-bold mt-10">Welcome, {data.user?.user_metadata.full_name}!</h1>
+      <h1 className="text-5xl font-bold mt-10 text-center">Welcome, {data.user?.user_metadata.full_name}!</h1>
     </main>
   );
 }
